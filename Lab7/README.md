@@ -1,5 +1,3 @@
 ## Lab Overview
 
-In this lab, Logistic Regression was used to predict whether a user would click on an advertisement. The dataset was explored and visualized to better understand the relationship between the available features and user behavior.
-
-The data was then split into training and testing sets, the model was trained, and its performance was evaluated using accuracy and classification metrics.
+We built a Logistic Regression model to predict if a user clicks on an ad. We explored and visualized the dataset, split it into training and testing sets, trained the model, and evaluated its performance using accuracy and classification metrics.
